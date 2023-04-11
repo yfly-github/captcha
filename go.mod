@@ -1,3 +1,3 @@
-module github.com/dchest/captcha
+module github.com/yfly-github/captcha
 
 go 1.18

@@ -3,7 +3,7 @@ Package captcha
 
 **:warning: Warning: this captcha can be broken by advanced OCR captcha breaking algorithms.**
 
-	import "github.com/dchest/captcha"
+	import "github.com/yfly-github/captcha"
 
 Package captcha implements generation and verification of image and audio
 CAPTCHAs.
@@ -51,9 +51,9 @@ take a look at the example in "capexample" subdirectory.
 Examples
 --------
 
-![Image](https://github.com/dchest/captcha/raw/master/capgen/example.png)
+![Image](https://github.com/yfly-github/captcha/raw/master/capgen/example.png)
 
-[Audio](https://github.com/dchest/captcha/raw/master/capgen/example.wav)
+[Audio](https://github.com/yfly-github/captcha/raw/master/capgen/example.wav)
 
 
 Constants
